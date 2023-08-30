@@ -8,7 +8,7 @@ je monge des oeux
 
 # AFTERNOON
 
-je mange des oeux
+je un bon barbecue
 
 # EVENING
 
