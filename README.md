@@ -6,6 +6,6 @@ exercice becode git
 
 # AFTERNOON
 
-je mange des oeux
+je un bon barbecue
 
 # EVENING
