@@ -7,3 +7,5 @@ exercice becode git
 # AFTERNOON
 
 # EVENING
+
+je bois un thé
