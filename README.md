@@ -10,3 +10,4 @@ exercice becode git
 
 je bois un thé
 soupe
+café
